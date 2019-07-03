@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>星范儿</title>
+  <icon>https://www.gravatar.com/avatar/d3e97cb3efd6729b9d4c3f2ed55b8450</icon>
+  <subtitle>明星穿戴搭配</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://xingfanr.github.io/"/>
+  <updated>2019-07-03T13:50:28.014Z</updated>
+  <id>https://xingfanr.github.io/</id>
+  
+  <author>
+    <name>星范儿</name>
+    <email>ytdaren@gmail.com</email>
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>周杰伦同款</title>
+    <link href="https://xingfanr.github.io/jay-chou/"/>
+    <id>https://xingfanr.github.io/jay-chou/</id>
+    <published>2019-07-02T05:40:12.000Z</published>
+    <updated>2019-07-03T13:50:28.014Z</updated>
+    
+    <content type="html"><![CDATA[<p>待编辑</p>]]></content>
+    
+    <summary type="html">
+    
+      周杰伦同款
+    
+    </summary>
+    
+      <category term="周杰伦" scheme="https://xingfanr.github.io/categories/%E5%91%A8%E6%9D%B0%E4%BC%A6/"/>
+    
+    
+      <category term="周杰伦" scheme="https://xingfanr.github.io/tags/%E5%91%A8%E6%9D%B0%E4%BC%A6/"/>
+    
+  </entry>
+  
+</feed>
